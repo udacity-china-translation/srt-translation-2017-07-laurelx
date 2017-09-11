@@ -124,7 +124,7 @@ so you may know their age, their weight.
 
 27
 00:01:19,108 --> 00:01:22,429
-You know its a single person, you have
+You know it's a single person, you have
 their drivers license, all this stuff.
 
 28
